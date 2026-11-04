@@ -1,10 +1,17 @@
 {
-  "seq": 33,
   "title": "Evaluating AI-Powered Email Security Against Phishing and BEC for SMEs",
-  "slug": "evaluating-ai-powered-email-security-against-phishing-a",
+  "old_slug": "evaluating-ai-powered-email-security-against-phishing-a",
+  "slug": "ai-email-security-evaluation",
   "folder": "Evaluating_Ai_Powered_Email_Security_Against_Phishing",
-  "kind": "identity_human",
-  "body_words": 243,
+  "kind": "identity",
+  "body_words": 318,
+  "source": "SCI700",
   "project_id": "Project 19",
-  "source": "SCI700"
+  "public": {
+    "public_ok": true,
+    "tier": "public-ok",
+    "reasons": [
+      "Strong portfolio narrative; synthetic baseline is fine for public"
+    ]
+  }
 }
